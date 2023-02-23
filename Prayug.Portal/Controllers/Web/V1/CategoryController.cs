@@ -251,5 +251,28 @@ namespace Prayug.Portal.Controllers.Web.V1
                 }
             }
         }
+        [AllowAnonymous]
+        [HttpGet("GetCertifyCategoryCourses")]
+        public async Task<IActionResult> GetCertifyCategoryCourses()
+        {
+            using (ISingleModelResponse<IEnumerable<CategoryCourses>> response = new SingleModelResponse<IEnumerable<CategoryCourses>>())
+            {
+                try
+                {
+                    IEnumerable<CategoryCourses> obj = await _category.GetCertifyCategoryCourses();
+                    response.objResponse = obj;
+                    response.Status = (obj != null && obj.Count() > 0) ? ResponseMessageEnum.Success : ResponseMessageEnum.Failure;
+                    response.Message = "Certify Category List";
+                    return Ok(response);
+                }
+                catch (Exception ex)
+                {
+                    response.Status = ResponseMessageEnum.Exception;
+                    response.Message = "Exception";
+                    response.Message = ex.Message;
+                    return Ok(response);
+                }
+            }
+        }
     }
 }

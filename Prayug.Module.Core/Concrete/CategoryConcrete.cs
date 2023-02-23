@@ -116,6 +116,19 @@ namespace Prayug.Module.Core.Concrete
                 throw;
             }
         }
+        public async Task<IEnumerable<category_courses>> GetCertifyCategoryCourses(IDbConnection conn)
+        {
+            try
+            {
+                //DynamicParameters param = new DynamicParameters();
+
+                return await conn.QueryAsync<category_courses>(@"usp_core_get_category_certify_course_count", null, commandType: CommandType.StoredProcedure);
+            }
+            catch
+            {
+                throw;
+            }
+        }
         public async Task<IEnumerable<category_courses>> GetUserTextSearch(IDbConnection conn, string user_search)
         {
             try

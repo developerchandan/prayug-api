@@ -94,3 +94,15 @@ C:\Users\ThinkPad\Downloads\Prayug (5)\Prayug\Prayug.Module.DependencyInjection\
 C:\Users\ThinkPad\Downloads\Prayug (5)\Prayug\Prayug.Module.DependencyInjection\obj\Debug\net6.0\refint\Prayug.Module.DependencyInjection.dll
 C:\Users\ThinkPad\Downloads\Prayug (5)\Prayug\Prayug.Module.DependencyInjection\obj\Debug\net6.0\Prayug.Module.DependencyInjection.pdb
 C:\Users\ThinkPad\Downloads\Prayug (5)\Prayug\Prayug.Module.DependencyInjection\obj\Debug\net6.0\ref\Prayug.Module.DependencyInjection.dll
+D:\Projects\Prayug\Prayug.Module.DependencyInjection\bin\Debug\net6.0\Prayug.Module.DependencyInjection.deps.json
+D:\Projects\Prayug\Prayug.Module.DependencyInjection\bin\Debug\net6.0\Prayug.Module.DependencyInjection.dll
+D:\Projects\Prayug\Prayug.Module.DependencyInjection\bin\Debug\net6.0\Prayug.Module.DependencyInjection.pdb
+D:\Projects\Prayug\Prayug.Module.DependencyInjection\obj\Debug\net6.0\Prayug.Module.DependencyInjection.csproj.AssemblyReference.cache
+D:\Projects\Prayug\Prayug.Module.DependencyInjection\obj\Debug\net6.0\Prayug.Module.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Prayug\Prayug.Module.DependencyInjection\obj\Debug\net6.0\Prayug.Module.DependencyInjection.AssemblyInfoInputs.cache
+D:\Projects\Prayug\Prayug.Module.DependencyInjection\obj\Debug\net6.0\Prayug.Module.DependencyInjection.AssemblyInfo.cs
+D:\Projects\Prayug\Prayug.Module.DependencyInjection\obj\Debug\net6.0\Prayug.Module.DependencyInjection.csproj.CoreCompileInputs.cache
+D:\Projects\Prayug\Prayug.Module.DependencyInjection\obj\Debug\net6.0\Prayug.Module.DependencyInjection.dll
+D:\Projects\Prayug\Prayug.Module.DependencyInjection\obj\Debug\net6.0\refint\Prayug.Module.DependencyInjection.dll
+D:\Projects\Prayug\Prayug.Module.DependencyInjection\obj\Debug\net6.0\Prayug.Module.DependencyInjection.pdb
+D:\Projects\Prayug\Prayug.Module.DependencyInjection\obj\Debug\net6.0\ref\Prayug.Module.DependencyInjection.dll

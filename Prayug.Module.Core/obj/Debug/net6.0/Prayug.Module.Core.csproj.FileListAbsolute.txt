@@ -150,3 +150,22 @@ C:\Users\ThinkPad\Downloads\Prayug (5)\Prayug\Prayug.Module.Core\obj\Debug\net6.
 C:\Users\ThinkPad\Downloads\Prayug (5)\Prayug\Prayug.Module.Core\obj\Debug\net6.0\refint\Prayug.Module.Core.dll
 C:\Users\ThinkPad\Downloads\Prayug (5)\Prayug\Prayug.Module.Core\obj\Debug\net6.0\Prayug.Module.Core.pdb
 C:\Users\ThinkPad\Downloads\Prayug (5)\Prayug\Prayug.Module.Core\obj\Debug\net6.0\ref\Prayug.Module.Core.dll
+D:\Projects\Prayug\Prayug.Module.Core\bin\Debug\net6.0\Prayug.Module.Core.deps.json
+D:\Projects\Prayug\Prayug.Module.Core\bin\Debug\net6.0\Prayug.Module.Core.dll
+D:\Projects\Prayug\Prayug.Module.Core\bin\Debug\net6.0\Prayug.Module.Core.pdb
+D:\Projects\Prayug\Prayug.Module.Core\bin\Debug\net6.0\Prayug.Infrastructure.dll
+D:\Projects\Prayug\Prayug.Module.Core\bin\Debug\net6.0\Prayug.Module.DataBaseHelper.dll
+D:\Projects\Prayug\Prayug.Module.Core\bin\Debug\net6.0\Prayug.Module.DependencyInjection.dll
+D:\Projects\Prayug\Prayug.Module.Core\bin\Debug\net6.0\Prayug.Infrastructure.pdb
+D:\Projects\Prayug\Prayug.Module.Core\bin\Debug\net6.0\Prayug.Module.DataBaseHelper.pdb
+D:\Projects\Prayug\Prayug.Module.Core\bin\Debug\net6.0\Prayug.Module.DependencyInjection.pdb
+D:\Projects\Prayug\Prayug.Module.Core\obj\Debug\net6.0\Prayug.Module.Core.csproj.AssemblyReference.cache
+D:\Projects\Prayug\Prayug.Module.Core\obj\Debug\net6.0\Prayug.Module.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Prayug\Prayug.Module.Core\obj\Debug\net6.0\Prayug.Module.Core.AssemblyInfoInputs.cache
+D:\Projects\Prayug\Prayug.Module.Core\obj\Debug\net6.0\Prayug.Module.Core.AssemblyInfo.cs
+D:\Projects\Prayug\Prayug.Module.Core\obj\Debug\net6.0\Prayug.Module.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Prayug\Prayug.Module.Core\obj\Debug\net6.0\Prayug.Module.Core.csproj.CopyComplete
+D:\Projects\Prayug\Prayug.Module.Core\obj\Debug\net6.0\Prayug.Module.Core.dll
+D:\Projects\Prayug\Prayug.Module.Core\obj\Debug\net6.0\refint\Prayug.Module.Core.dll
+D:\Projects\Prayug\Prayug.Module.Core\obj\Debug\net6.0\Prayug.Module.Core.pdb
+D:\Projects\Prayug\Prayug.Module.Core\obj\Debug\net6.0\ref\Prayug.Module.Core.dll

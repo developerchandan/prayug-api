@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\Prayug\\Prayug.Portal\\wwwroot\\ImportExcel\\ImportCourse_637952311209150514.xlsx",
+      "PackagePath": "staticwebassets\\ImportExcel\\ImportCourse_637952311209150514.xlsx"
+    },
+    {
+      "Id": "D:\\Projects\\Prayug\\Prayug.Portal\\wwwroot\\ImportExcel\\MCQIMport_638019361529564431.xlsx",
+      "PackagePath": "staticwebassets\\ImportExcel\\MCQIMport_638019361529564431.xlsx"
+    },
+    {
+      "Id": "D:\\Projects\\Prayug\\Prayug.Portal\\wwwroot\\ImportExcel\\MCQIMport_638019364598510117.xlsx",
+      "PackagePath": "staticwebassets\\ImportExcel\\MCQIMport_638019364598510117.xlsx"
+    },
+    {
+      "Id": "D:\\Projects\\Prayug\\Prayug.Portal\\wwwroot\\ImportExcel\\MCQIMport_638020613899554549.xlsx",
+      "PackagePath": "staticwebassets\\ImportExcel\\MCQIMport_638020613899554549.xlsx"
+    },
+    {
+      "Id": "D:\\Projects\\Prayug\\Prayug.Portal\\wwwroot\\ImportExcel\\MCQIMport_638020619125926055.xlsx",
+      "PackagePath": "staticwebassets\\ImportExcel\\MCQIMport_638020619125926055.xlsx"
+    },
+    {
+      "Id": "D:\\Projects\\Prayug\\Prayug.Portal\\wwwroot\\ImportExcel\\MCQIMport_638020620843282675.xlsx",
+      "PackagePath": "staticwebassets\\ImportExcel\\MCQIMport_638020620843282675.xlsx"
+    },
+    {
+      "Id": "D:\\Projects\\Prayug\\Prayug.Portal\\wwwroot\\ImportExcel\\MCQIMport_638020626034441200.xlsx",
+      "PackagePath": "staticwebassets\\ImportExcel\\MCQIMport_638020626034441200.xlsx"
+    },
+    {
+      "Id": "D:\\Projects\\Prayug\\Prayug.Portal\\wwwroot\\ImportExcel\\MCQIMport_638020629239171332.xlsx",
+      "PackagePath": "staticwebassets\\ImportExcel\\MCQIMport_638020629239171332.xlsx"
+    },
+    {
+      "Id": "D:\\Projects\\Prayug\\Prayug.Portal\\wwwroot\\ImportExcel\\MCQIMport_638020646725971043.xlsx",
+      "PackagePath": "staticwebassets\\ImportExcel\\MCQIMport_638020646725971043.xlsx"
+    },
+    {
+      "Id": "D:\\Projects\\Prayug\\Prayug.Portal\\wwwroot\\ImportExcel\\MCQIMport_638020649012976340.xlsx",
+      "PackagePath": "staticwebassets\\ImportExcel\\MCQIMport_638020649012976340.xlsx"
+    },
+    {
+      "Id": "D:\\Projects\\Prayug\\Prayug.Portal\\wwwroot\\ImportExcel\\MCQIMport_638020654639517301.xlsx",
+      "PackagePath": "staticwebassets\\ImportExcel\\MCQIMport_638020654639517301.xlsx"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Prayug.Portal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Prayug.Portal.props",
+      "PackagePath": "build\\Prayug.Portal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Prayug.Portal.props",
+      "PackagePath": "buildMultiTargeting\\Prayug.Portal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Prayug.Portal.props",
+      "PackagePath": "buildTransitive\\Prayug.Portal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\M-13\\Prayug\\Prayug.Module.Core\\Prayug.Module.Core.csproj": {}
+    "D:\\Projects\\Prayug\\Prayug.Module.Core\\Prayug.Module.Core.csproj": {}
   },
   "projects": {
-    "D:\\M-13\\Prayug\\Prayug.Infrastructure\\Prayug.Infrastructure.csproj": {
+    "D:\\Projects\\Prayug\\Prayug.Infrastructure\\Prayug.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\M-13\\Prayug\\Prayug.Infrastructure\\Prayug.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Projects\\Prayug\\Prayug.Infrastructure\\Prayug.Infrastructure.csproj",
         "projectName": "Prayug.Infrastructure",
-        "projectPath": "D:\\M-13\\Prayug\\Prayug.Infrastructure\\Prayug.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-        "outputPath": "D:\\M-13\\Prayug\\Prayug.Infrastructure\\obj\\",
+        "projectPath": "D:\\Projects\\Prayug\\Prayug.Infrastructure\\Prayug.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Prayug\\Prayug.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\M-13\\Prayug\\Prayug.Module.DataBaseHelper\\Prayug.Module.DataBaseHelper.csproj": {
-                "projectPath": "D:\\M-13\\Prayug\\Prayug.Module.DataBaseHelper\\Prayug.Module.DataBaseHelper.csproj"
+              "D:\\Projects\\Prayug\\Prayug.Module.DataBaseHelper\\Prayug.Module.DataBaseHelper.csproj": {
+                "projectPath": "D:\\Projects\\Prayug\\Prayug.Module.DataBaseHelper\\Prayug.Module.DataBaseHelper.csproj"
               }
             }
           }
@@ -73,24 +73,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\M-13\\Prayug\\Prayug.Module.Core\\Prayug.Module.Core.csproj": {
+    "D:\\Projects\\Prayug\\Prayug.Module.Core\\Prayug.Module.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\M-13\\Prayug\\Prayug.Module.Core\\Prayug.Module.Core.csproj",
+        "projectUniqueName": "D:\\Projects\\Prayug\\Prayug.Module.Core\\Prayug.Module.Core.csproj",
         "projectName": "Prayug.Module.Core",
-        "projectPath": "D:\\M-13\\Prayug\\Prayug.Module.Core\\Prayug.Module.Core.csproj",
-        "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-        "outputPath": "D:\\M-13\\Prayug\\Prayug.Module.Core\\obj\\",
+        "projectPath": "D:\\Projects\\Prayug\\Prayug.Module.Core\\Prayug.Module.Core.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Prayug\\Prayug.Module.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -105,14 +105,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\M-13\\Prayug\\Prayug.Infrastructure\\Prayug.Infrastructure.csproj": {
-                "projectPath": "D:\\M-13\\Prayug\\Prayug.Infrastructure\\Prayug.Infrastructure.csproj"
+              "D:\\Projects\\Prayug\\Prayug.Infrastructure\\Prayug.Infrastructure.csproj": {
+                "projectPath": "D:\\Projects\\Prayug\\Prayug.Infrastructure\\Prayug.Infrastructure.csproj"
               },
-              "D:\\M-13\\Prayug\\Prayug.Module.DataBaseHelper\\Prayug.Module.DataBaseHelper.csproj": {
-                "projectPath": "D:\\M-13\\Prayug\\Prayug.Module.DataBaseHelper\\Prayug.Module.DataBaseHelper.csproj"
+              "D:\\Projects\\Prayug\\Prayug.Module.DataBaseHelper\\Prayug.Module.DataBaseHelper.csproj": {
+                "projectPath": "D:\\Projects\\Prayug\\Prayug.Module.DataBaseHelper\\Prayug.Module.DataBaseHelper.csproj"
               },
-              "D:\\M-13\\Prayug\\Prayug.Module.DependencyInjection\\Prayug.Module.DependencyInjection.csproj": {
-                "projectPath": "D:\\M-13\\Prayug\\Prayug.Module.DependencyInjection\\Prayug.Module.DependencyInjection.csproj"
+              "D:\\Projects\\Prayug\\Prayug.Module.DependencyInjection\\Prayug.Module.DependencyInjection.csproj": {
+                "projectPath": "D:\\Projects\\Prayug\\Prayug.Module.DependencyInjection\\Prayug.Module.DependencyInjection.csproj"
               }
             }
           }
@@ -152,24 +152,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\M-13\\Prayug\\Prayug.Module.DataBaseHelper\\Prayug.Module.DataBaseHelper.csproj": {
+    "D:\\Projects\\Prayug\\Prayug.Module.DataBaseHelper\\Prayug.Module.DataBaseHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\M-13\\Prayug\\Prayug.Module.DataBaseHelper\\Prayug.Module.DataBaseHelper.csproj",
+        "projectUniqueName": "D:\\Projects\\Prayug\\Prayug.Module.DataBaseHelper\\Prayug.Module.DataBaseHelper.csproj",
         "projectName": "Prayug.Module.DataBaseHelper",
-        "projectPath": "D:\\M-13\\Prayug\\Prayug.Module.DataBaseHelper\\Prayug.Module.DataBaseHelper.csproj",
-        "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-        "outputPath": "D:\\M-13\\Prayug\\Prayug.Module.DataBaseHelper\\obj\\",
+        "projectPath": "D:\\Projects\\Prayug\\Prayug.Module.DataBaseHelper\\Prayug.Module.DataBaseHelper.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Prayug\\Prayug.Module.DataBaseHelper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -225,24 +225,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\M-13\\Prayug\\Prayug.Module.DependencyInjection\\Prayug.Module.DependencyInjection.csproj": {
+    "D:\\Projects\\Prayug\\Prayug.Module.DependencyInjection\\Prayug.Module.DependencyInjection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\M-13\\Prayug\\Prayug.Module.DependencyInjection\\Prayug.Module.DependencyInjection.csproj",
+        "projectUniqueName": "D:\\Projects\\Prayug\\Prayug.Module.DependencyInjection\\Prayug.Module.DependencyInjection.csproj",
         "projectName": "Prayug.Module.DependencyInjection",
-        "projectPath": "D:\\M-13\\Prayug\\Prayug.Module.DependencyInjection\\Prayug.Module.DependencyInjection.csproj",
-        "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-        "outputPath": "D:\\M-13\\Prayug\\Prayug.Module.DependencyInjection\\obj\\",
+        "projectPath": "D:\\Projects\\Prayug\\Prayug.Module.DependencyInjection\\Prayug.Module.DependencyInjection.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Prayug\\Prayug.Module.DependencyInjection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -314,7 +314,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -20,6 +20,7 @@ namespace Prayug.Module.Core.Interfaces
         Task<IEnumerable<certify_category>> GetCertifyCategoryList(IDbConnection conn, int user_id);
         Task<(IEnumerable<certify_category>, long)> GetCertifyCategoryList(IDbConnection conn, QueryParameters query);
         Task<IEnumerable<category_courses>> GetCategoryCourses(IDbConnection conn);
+        Task<IEnumerable<category_courses>> GetCertifyCategoryCourses(IDbConnection conn);
         Task<IEnumerable<category_courses>> GetUserTextSearch(IDbConnection conn, string user_search);
     }
 }

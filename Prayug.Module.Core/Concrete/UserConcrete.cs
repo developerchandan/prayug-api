@@ -23,6 +23,7 @@ namespace Prayug.Module.Core.Concrete
                 param.Add("p_city", entity.city);
                 param.Add("p_state", entity.state);
                 param.Add("p_password", entity.password);
+                //param.Add("p_password", entity.user_role);
                 return await conn.ExecuteAsync(@"usp_core_user_registration", param, tran, commandType: CommandType.StoredProcedure);
             }
             catch

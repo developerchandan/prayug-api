@@ -118,3 +118,18 @@ C:\Users\ThinkPad\Downloads\Prayug (5)\Prayug\Prayug.Infrastructure\obj\Debug\ne
 C:\Users\ThinkPad\Downloads\Prayug (5)\Prayug\Prayug.Infrastructure\obj\Debug\net6.0\refint\Prayug.Infrastructure.dll
 C:\Users\ThinkPad\Downloads\Prayug (5)\Prayug\Prayug.Infrastructure\obj\Debug\net6.0\Prayug.Infrastructure.pdb
 C:\Users\ThinkPad\Downloads\Prayug (5)\Prayug\Prayug.Infrastructure\obj\Debug\net6.0\ref\Prayug.Infrastructure.dll
+D:\Projects\Prayug\Prayug.Infrastructure\bin\Debug\net6.0\Prayug.Infrastructure.deps.json
+D:\Projects\Prayug\Prayug.Infrastructure\bin\Debug\net6.0\Prayug.Infrastructure.dll
+D:\Projects\Prayug\Prayug.Infrastructure\bin\Debug\net6.0\Prayug.Infrastructure.pdb
+D:\Projects\Prayug\Prayug.Infrastructure\bin\Debug\net6.0\Prayug.Module.DataBaseHelper.dll
+D:\Projects\Prayug\Prayug.Infrastructure\bin\Debug\net6.0\Prayug.Module.DataBaseHelper.pdb
+D:\Projects\Prayug\Prayug.Infrastructure\obj\Debug\net6.0\Prayug.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\Prayug\Prayug.Infrastructure\obj\Debug\net6.0\Prayug.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Prayug\Prayug.Infrastructure\obj\Debug\net6.0\Prayug.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Prayug\Prayug.Infrastructure\obj\Debug\net6.0\Prayug.Infrastructure.AssemblyInfo.cs
+D:\Projects\Prayug\Prayug.Infrastructure\obj\Debug\net6.0\Prayug.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Prayug\Prayug.Infrastructure\obj\Debug\net6.0\Prayug.Infrastructure.csproj.CopyComplete
+D:\Projects\Prayug\Prayug.Infrastructure\obj\Debug\net6.0\Prayug.Infrastructure.dll
+D:\Projects\Prayug\Prayug.Infrastructure\obj\Debug\net6.0\refint\Prayug.Infrastructure.dll
+D:\Projects\Prayug\Prayug.Infrastructure\obj\Debug\net6.0\Prayug.Infrastructure.pdb
+D:\Projects\Prayug\Prayug.Infrastructure\obj\Debug\net6.0\ref\Prayug.Infrastructure.dll

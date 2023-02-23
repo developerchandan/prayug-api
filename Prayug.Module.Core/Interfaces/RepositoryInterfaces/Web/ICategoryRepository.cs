@@ -17,6 +17,7 @@ namespace Prayug.Module.Core.Interfaces.RepositoryInterfaces.Web
         Task<IEnumerable<CertifyCategoryVm>> GetCertifyCategoryList(int user_id);
         Task<(IEnumerable<CertifyCategoryVm>, Int64)> GetCertifyCategoryList(int pageNo, int pageSize, string sortName, string sortType, CertifyCategorySearchRequestVm entity);
         Task<IEnumerable<CategoryCourses>> GetCategoryCourses();
+        Task<IEnumerable<CategoryCourses>> GetCertifyCategoryCourses();
         Task<IEnumerable<CategoryCourses>> GetUserTextSearch(string user_search);
     }
 }

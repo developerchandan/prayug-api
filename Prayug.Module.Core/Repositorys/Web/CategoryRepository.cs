@@ -239,5 +239,25 @@ namespace Prayug.Module.Core.Repositorys.Web
                 }
             }
         }
+        public async Task<IEnumerable<CategoryCourses>> GetCertifyCategoryCourses()
+        {
+            using (IDbConnection conn = Connection)
+            {
+                conn.Open();
+                try
+                {
+                    IEnumerable<category_courses> obj = await _category.GetCertifyCategoryCourses(conn);
+                    return _mapper.Map<IEnumerable<CategoryCourses>>(obj);
+                }
+                catch
+                {
+                    throw;
+                }
+                finally
+                {
+                    conn.Close();
+                }
+            }
+        }
     }
 }
